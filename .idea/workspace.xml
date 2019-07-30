@@ -6,6 +6,10 @@
       <change beforePath="$PROJECT_DIR$/images/a1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/a1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/a2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/a2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/a3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/a3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/w1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/w1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/w2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/w3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/w3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/w4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/w4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="304" column="135" selection-start-line="304" selection-start-column="135" selection-end-line="304" selection-end-column="135" />
+            <state relative-caret-position="189">
+              <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -71,6 +75,21 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -78,8 +97,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Shopping_cart" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -114,11 +140,20 @@
       <workItem from="1563600790942" duration="157000" />
       <workItem from="1563868103116" duration="155000" />
       <workItem from="1563868294556" duration="25000" />
+      <workItem from="1563894367783" duration="516000" />
+      <workItem from="1563899361414" duration="5487000" />
+      <workItem from="1563986744088" duration="2794000" />
+      <workItem from="1563990094109" duration="1812000" />
+      <workItem from="1564024398779" duration="2364000" />
+      <workItem from="1564051697210" duration="257000" />
+      <workItem from="1564123309277" duration="27000" />
+      <workItem from="1564417390045" duration="1297000" />
+      <workItem from="1564454560705" duration="2378000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4937000" />
+    <option name="totallyTimeSpent" value="21869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -153,10 +188,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/classic_cv-web_Free04-10-2017_711136290/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5287">
+          <caret line="311" column="21" selection-start-line="252" selection-end-line="311" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="304" column="135" selection-start-line="304" selection-start-column="135" selection-end-line="304" selection-end-column="135" />
+        <state relative-caret-position="189">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
         </state>
       </provider>
     </entry>
