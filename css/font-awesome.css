@@ -183,7 +183,9 @@
 .fa-glass:before {
   content: "\f000";
 }
-.fa-music:before {
+.fa-music:before,
+.fa-badminton:before,
+.fa-tomato:before {
   content: "\f001";
 }
 .fa-search:before {
